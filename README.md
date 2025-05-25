@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Web Application Solution URL: (https://github.com/YoussefSallem/game-hub-frontend/)
-- Backend Solution URL: (https://github.com/AhmedShebl2000/game-hub-backend/)
+- Web Application Solution URL: (https://github.com/KareemEhab/game-hub-frontend/)
+- Backend Solution URL: (https://github.com/KareemEhab/game-hub-backend/)
 - Live Site URL: (https://game-hub-iti.netlify.app/home/)
 - Live Back-end URL: (https://game-hub-backend-woad.vercel.app/api/)
 
